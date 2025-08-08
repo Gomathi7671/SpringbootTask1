@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringDataMongodbdemoApplication<SpringDataMongodbdemo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.SpringDataMongodbdemo.SpringDataMongodbdemoApplication",
+            "projectName": "SpringDataMongodbdemo",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
